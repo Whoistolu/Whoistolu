@@ -11,12 +11,14 @@
 
 ## About Me :Man:
 
-- 🔭 I’m currently training to become a Full-Stack software developer
-- 👯 I’m looking to collaborate on great projects
-- 🌱 I’m currently learning how to build great software at home.
-- :computer: Language stack: JavaScript, Ruby, Rails, React & Redux
+
+- 🔭 I’m currently training to become a Full-Stack software developer.
+- 👯 I’m looking to collaborate on great projects.
+- 🌱 I’m currently learning how to build great software at <a href="https://www.microverse.org/">Microverse Inc</a>
+- :computer: Language stack: JavaScript, Ruby, Rails, React & Redux.
 - ⚡ Fun fact: I'm a lover of video games
-- :book: I'm a book lover
+- :book: I'm a book lover.
+
 
 ## Stats
 [![Tolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whoistolu&count_private=true)](https://github.com/Whoistolu)
