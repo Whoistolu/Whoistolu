@@ -13,9 +13,8 @@
 
 
 - 👯 I’m looking to collaborate on great projects.
-- 🌱 I’m currently building great softwares at <a href="https://www.microverse.org/">Microverse Inc</a>
+- 🌱 I’m learning how to build great softwares at <a href="https://www.microverse.org/">Microverse Inc</a>
 - :computer: Language stack: JavaScript, Ruby, Rails, React & Redux.
-- 🔭 In the nearest future, I would like to contribute to the field of `Data Science` and `Cyber Security`.
 - ⚡ Fun fact: I love to play video games.
 - :book: I'm a book lover.
 
