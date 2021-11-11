@@ -9,7 +9,7 @@
    <a href="https://twitter.com/Littletolu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-## About Me :
+## About Me
 
 
 - 👯 I’m looking to collaborate on great projects.
