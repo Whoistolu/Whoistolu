@@ -16,7 +16,7 @@
 - 🌱 I’m learning how to build great softwares at <a href="https://www.microverse.org/">Microverse Inc</a>
 - :computer: Language stack: JavaScript, Ruby, Rails, React & Redux.
 - ⚡ Fun fact: I love to play video games.
-- :book: I'm a book lover.
+- :book: I read a lot, I'm a book lover.
 
 
 ## Stats
