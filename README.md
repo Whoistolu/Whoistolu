@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <p align="center">
-  <img width="1100" height="auto" src="Tolu.jpg">
+  <img width="1100" height="auto" src="Tolu2.png">
 </p>
 
 <p align="center">
