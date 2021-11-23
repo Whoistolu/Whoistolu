@@ -9,14 +9,14 @@
    <a href="https://twitter.com/Littletolu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-## About Me :
+## About Me
 
 
 - 👯 I’m looking to collaborate on great projects.
 - 🌱 I’m learning how to build great softwares at <a href="https://www.microverse.org/">Microverse Inc</a>
 - :computer: Language stack: JavaScript, Ruby, Rails, React & Redux.
 - ⚡ Fun fact: I love to play video games.
-- :book: I'm a book lover.
+- :book: I read books a lot.
 
 
 ## Stats
