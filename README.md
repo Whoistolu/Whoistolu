@@ -15,8 +15,8 @@
 - 👯 I’m looking to collaborate on great projects.
 - 🌱 I’m learning how to build great softwares at <a href="https://www.microverse.org/">Microverse Inc</a>
 - :computer: Language stack: JavaScript, Ruby, Rails, React & Redux.
-- ⚡ Fun fact: I love to play video games.
 - :book: I read a lot a books.
+- - ⚡ Fun fact: I love to play video games.
 
 
 ## Stats
