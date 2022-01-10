@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on great projects.
 - :computer: Language stack: JavaScript, Ruby, Rails, React & Redux.
 - :book: I read a lot a books.
-- - ⚡ Fun fact: I love to play video games.
+- ⚡ Fun fact: I love to play video games.
 
 
 ## Stats
