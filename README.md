@@ -12,9 +12,9 @@
 ## About Me
 
 
-- 👯 I’m looking to collaborate on great projects.
-- :computer: Language stack: Rails, React & Redux.
-- :book: I read a lot a books.
+- 👯 I’m looking to collaborate on great front-end and back-end projects.
+- :computer: Language stack: Ruby on Rails and ReactJS.
+- :book: I am a book lover.
 - ⚡ Fun fact: I love to play video games.
 
 
