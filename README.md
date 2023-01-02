@@ -11,10 +11,10 @@
 
 ## About Me
 
-- 👯 I’m looking to collaborate on great projects..
-- :computer: Language stack: Ruby on Rails and ReactJ..
-- :book: I am a book lover...
-- ⚡ Fun fact: I love to play video games..
+- 👯 I’m looking to collaborate on great projects.
+- :computer: Language stack: Ruby on Rails and ReactJ.
+- :book: I am a book lover.
+- ⚡ Fun fact: I love to play video games.
 
 
 ## Stats
